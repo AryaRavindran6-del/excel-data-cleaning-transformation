@@ -24,3 +24,6 @@ The dataset was cleaned by handling missing values, correcting inconsistent data
 The original dataset contained *34 records*. After removing *3 duplicate records* and addressing missing and inconsistent data, the final cleaned dataset contains *31 unique records *.*
 
 The completed Excel workbook contains the original data, cleaned dataset, analysis results, formulas, and step-by-step documentation.
+### Tools Used
+Microsoft Excel
+GitHub
