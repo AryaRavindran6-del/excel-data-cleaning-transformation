@@ -1,8 +1,7 @@
 # Excel-data-cleaning-transformation
 Excel-based data cleaning and transformation project demonstrating missing-value handling, data standardization, duplicate removal, data splitting and merging, formatting, and conditional analysis.
-# Excel Data Cleaning & Transformation
 
-## Overview
+## Project Overview
 
 This project is part of the *Program in AI-Driven Data Analytics Course*. The assignment focuses on cleaning and transforming a product dataset using Microsoft Excel.
 
